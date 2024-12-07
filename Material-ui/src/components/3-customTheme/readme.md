@@ -11,6 +11,6 @@ Custom theme tutorial: [click here](https://youtu.be/ZyQlpX7lCRE?si=0CZeitjbg04F
 
 After watching the tutorial:
 
-1. Create a component that contains 3 <Box> components.
-2. Create a custom theme with three colors. The palette should have these properties: primary.main, secondary.main, success.main.
-3. Assign each color to a <Box> component.
+1. Create a component that contains 3 <Box> components.✅
+2. Create a custom theme with three colors. The palette should have these properties: primary.main, secondary.main, success.main.✅
+3. Assign each color to a <Box> component.✅
